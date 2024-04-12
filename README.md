@@ -9,3 +9,5 @@ To get started, we'l be using the intuitive using `pipelines` library. You may f
 [Pipelines Documentation](hhttps://huggingface.co/docs/transformers/main_classes/pipelines)
 
 Without further ado, let's dive into the world of NLP and transformers! 🚀📖
+
+Have a look into **Your_first_Transformers.ipynb** Ignore the other one.
